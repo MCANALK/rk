@@ -41,8 +41,6 @@ Keyboard : G : KeyDown
 DELAY : 5
 Keyboard : G : KeyUp
 ENDIF
-GOTO : 0
-ENDIF
 IF PIXEL COLOR EQUALS : 23 : 282 : 0 : 0
 Keyboard : Z : KeyDown
 DELAY : 5
