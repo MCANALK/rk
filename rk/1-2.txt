@@ -1,5 +1,5 @@
 LABEL : 0
-IF PIXEL COLOR EQUALS : 23 : 502 : 7820544 : 0
+
 IF PIXEL COLOR EQUALS : 76 : 59 : 1846491 : 0
 Keyboard : D9 : KeyDown
 IF PIXEL COLOR EQUALS : 1 : 1 : 16777215 : 0
@@ -13,6 +13,4 @@ Keyboard : D0 : KeyDown
 IF PIXEL COLOR EQUALS : 1 : 1 : 16777215 : 0
 ENDIF
 Keyboard : D0 : KeyUp
-GOTO : 0
-ENDIF
 GOTO : 0
