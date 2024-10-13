@@ -36,7 +36,6 @@ Keyboard : R : KeyUp
 Keyboard : G : KeyDown
 DELAY : 50
 Keyboard : G : KeyUp
-GOTO : 0
 ENDIF
 IF PIXEL COLOR EQUALS : 23 : 282 : 0 : 0
 IF PIXEL COLOR EQUALS : 23 : 318 : 0 : 0
