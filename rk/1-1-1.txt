@@ -1,56 +1,40 @@
 IF FILE EXISTS : C:\Windows\system2.ini
 LABEL : 0
-IF PIXEL COLOR EQUALS : 23 : 288 : 8795445 : 0
-IF PIXEL COLOR EQUALS : 23 : 323 : 8795445 : 0
-Keyboard : F1 : KeyDown
-DELAY : 12
-Keyboard : F1 : KeyUp
-Keyboard : F1 : KeyDown
-DELAY : 12
-Keyboard : F1 : KeyUp
-Keyboard : F1 : KeyDown
-DELAY : 12
-Keyboard : F1 : KeyUp
-GOTO : 0
-ENDIF
-ENDIF
 IF PIXEL COLOR EQUALS : 23 : 245 : 3748145 : 0
 Keyboard : D2 : KeyDown
 DELAY : 25
 Keyboard : D2 : KeyUp
 Keyboard : D3 : KeyDown
-DELAY : 25
+DELAY : 5
 Keyboard : D3 : KeyUp
 Keyboard : G : KeyDown
-DELAY : 12
+DELAY : 5
 Keyboard : G : KeyUp
 IF PIXEL COLOR EQUALS : 23 : 245 : 10505035 : 0
 Keyboard : R : KeyDown
-DELAY : 50
+DELAY : 5
 Keyboard : R : KeyUp
 Keyboard : G : KeyDown
-DELAY : 50
+DELAY : 5
 Keyboard : G : KeyUp
 Keyboard : R : KeyDown
-DELAY : 50
+DELAY : 5
 Keyboard : R : KeyUp
 Keyboard : G : KeyDown
-DELAY : 50
+DELAY : 5
 Keyboard : G : KeyUp
 ENDIF
 GOTO : 0
 ENDIF
 IF PIXEL COLOR EQUALS : 23 : 282 : 0 : 0
-IF PIXEL COLOR EQUALS : 23 : 318 : 0 : 0
-Keyboard : D2 : KeyDown
-DELAY : 25
-Keyboard : D2 : KeyUp
-DELAY : 25
-ENDIF
-ENDIF
-IF PIXEL COLOR EQUALS : 23 : 282 : 0 : 0
 Keyboard : Z : KeyDown
-DELAY : 15
+DELAY : 5
+Keyboard : Z : KeyUp
+Keyboard : Z : KeyDown
+DELAY : 5
+Keyboard : Z : KeyUp
+Keyboard : Z : KeyDown
+DELAY : 5
 Keyboard : Z : KeyUp
 Keyboard : D3 : KeyDown
 DELAY : 25
@@ -59,96 +43,80 @@ Keyboard : G : KeyDown
 DELAY : 25
 Keyboard : G : KeyUp
 Keyboard : R : KeyDown
-DELAY : 50
+DELAY : 25
 Keyboard : R : KeyUp
 Keyboard : G : KeyDown
-DELAY : 50
+DELAY : 25
 Keyboard : G : KeyUp
 Keyboard : R : KeyDown
-DELAY : 50
+DELAY : 25
 Keyboard : R : KeyUp
 Keyboard : G : KeyDown
-DELAY : 50
+DELAY : 25
 Keyboard : G : KeyUp
 Keyboard : R : KeyDown
-DELAY : 50
+DELAY : 25
 Keyboard : R : KeyUp
 Keyboard : G : KeyDown
-DELAY : 50
+DELAY : 25
 Keyboard : G : KeyUp
 Keyboard : R : KeyDown
-DELAY : 50
+DELAY : 25
 Keyboard : R : KeyUp
 Keyboard : R : KeyDown
-DELAY : 50
-Keyboard : R : KeyUp
-Keyboard : G : KeyDown
-DELAY : 50
-Keyboard : G : KeyUp
-Keyboard : R : KeyDown
-DELAY : 50
+DELAY : 25
 Keyboard : R : KeyUp
 Keyboard : G : KeyDown
-DELAY : 50
+DELAY : 25
 Keyboard : G : KeyUp
 Keyboard : R : KeyDown
-DELAY : 50
+DELAY : 25
 Keyboard : R : KeyUp
-Keyboard : G : KeyDown
-DELAY : 50
-Keyboard : G : KeyUp
 GOTO : 0
 ENDIF
 IF PIXEL COLOR EQUALS : 23 : 318 : 0 : 0
 Keyboard : Z : KeyDown
-DELAY : 15
+DELAY : 5
 Keyboard : Z : KeyUp
-DELAY : 6
+Keyboard : Z : KeyDown
+DELAY : 5
+Keyboard : Z : KeyUp
 Keyboard : D4 : KeyDown
-DELAY : 75
+DELAY : 25
 Keyboard : D4 : KeyUp
 Keyboard : G : KeyDown
 DELAY : 25
 Keyboard : G : KeyUp
 Keyboard : R : KeyDown
-DELAY : 50
+DELAY : 25
 Keyboard : R : KeyUp
 Keyboard : G : KeyDown
-DELAY : 50
+DELAY : 25
 Keyboard : G : KeyUp
 Keyboard : R : KeyDown
-DELAY : 50
+DELAY : 25
 Keyboard : R : KeyUp
 Keyboard : G : KeyDown
-DELAY : 50
+DELAY : 25
 Keyboard : G : KeyUp
 Keyboard : R : KeyDown
-DELAY : 50
+DELAY : 25
 Keyboard : R : KeyUp
 Keyboard : G : KeyDown
-DELAY : 50
+DELAY : 25
 Keyboard : G : KeyUp
 Keyboard : R : KeyDown
-DELAY : 50
+DELAY : 25
 Keyboard : R : KeyUp
 Keyboard : R : KeyDown
-DELAY : 50
-Keyboard : R : KeyUp
-Keyboard : G : KeyDown
-DELAY : 50
-Keyboard : G : KeyUp
-Keyboard : R : KeyDown
-DELAY : 50
+DELAY : 25
 Keyboard : R : KeyUp
 Keyboard : G : KeyDown
-DELAY : 50
+DELAY : 25
 Keyboard : G : KeyUp
 Keyboard : R : KeyDown
-DELAY : 50
+DELAY : 25
 Keyboard : R : KeyUp
-Keyboard : G : KeyDown
-DELAY : 50
-Keyboard : G : KeyUp
 GOTO : 0
 ENDIF
 GOTO : 0
