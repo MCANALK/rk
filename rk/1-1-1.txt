@@ -23,6 +23,24 @@ Keyboard : R : KeyUp
 Keyboard : G : KeyDown
 DELAY : 5
 Keyboard : G : KeyUp
+Keyboard : R : KeyDown
+DELAY : 5
+Keyboard : R : KeyUp
+Keyboard : G : KeyDown
+DELAY : 5
+Keyboard : G : KeyUp
+Keyboard : R : KeyDown
+DELAY : 5
+Keyboard : R : KeyUp
+Keyboard : G : KeyDown
+DELAY : 5
+Keyboard : G : KeyUp
+Keyboard : R : KeyDown
+DELAY : 5
+Keyboard : R : KeyUp
+Keyboard : G : KeyDown
+DELAY : 5
+Keyboard : G : KeyUp
 ENDIF
 GOTO : 0
 ENDIF
