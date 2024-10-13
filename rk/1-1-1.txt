@@ -24,7 +24,6 @@ Keyboard : D3 : KeyUp
 Keyboard : G : KeyDown
 DELAY : 12
 Keyboard : G : KeyUp
-IF PIXEL COLOR EQUALS : 23 : 252 : 10769239 : 0
 Keyboard : R : KeyDown
 DELAY : 50
 Keyboard : R : KeyUp
@@ -37,7 +36,6 @@ Keyboard : R : KeyUp
 Keyboard : G : KeyDown
 DELAY : 50
 Keyboard : G : KeyUp
-ENDIF
 GOTO : 0
 ENDIF
 IF PIXEL COLOR EQUALS : 23 : 282 : 0 : 0
